@@ -3,25 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ellie Goodman</title>
+    <title>Home - Ellie Goodman</title>
     <style>
+        /* CSS styles remain the same as provided in the previous code */
         body {
-            background-color: lightgrey; /* Background color of the website */
+            background-color: lightgrey;
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
         }
         header {
-            background-color: lightblue; /* Background color of the website title */
+            background-color: lightblue;
             text-align: center;
             padding: 20px 0;
         }
         #headshot {
             display: block;
-            margin: 0 auto; /* Centers the image horizontally */
+            margin: 0 auto;
             max-width: 100%;
             height: auto;
-            border-radius: 50%; /* Makes the image round */
+            border-radius: 50%;
         }
         nav {
             text-align: center;
@@ -40,10 +41,8 @@
         <h1>Ellie Goodman</h1>
         <img id="headshot" src="Images/headshot.png" alt="Ellie Goodman's Headshot">
         <nav>
-            <a href="#">Link 1</a>
-            <a href="#">Link 2</a>
-            <a href="#">Link 3</a>
-            <!-- Add more links as needed -->
+            <a href="index.html">Home</a>
+            <a href="aboutme.html">About Me</a>
         </nav>
     </header>
     <!-- Add more sections/content as needed -->
